@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kompletering", "Kompletering\Kompletering.csproj", "{51A390FC-631A-4871-8CA4-5B38432730DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A390FC-631A-4871-8CA4-5B38432730DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A390FC-631A-4871-8CA4-5B38432730DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A390FC-631A-4871-8CA4-5B38432730DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A390FC-631A-4871-8CA4-5B38432730DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72280913-E47D-43AE-A009-BA1659CA4FBE}
+	EndGlobalSection
+EndGlobal
